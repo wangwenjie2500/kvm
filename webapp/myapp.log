@@ -1,0 +1,5 @@
+Wed, 13 Sep 2017 14:08:57 _internal.py[line:87] WARNING  * Debugger is active!
+Wed, 13 Sep 2017 14:08:57 _internal.py[line:87] INFO  * Debugger pin code: 138-030-652
+Wed, 13 Sep 2017 14:09:00 _internal.py[line:87] INFO 192.168.201.153 - - [13/Sep/2017 14:09:00] "GET /api/v0.1/domain/select/&num=all&%UUID%vName% HTTP/1.1" 200 -
+Wed, 13 Sep 2017 14:09:14 _internal.py[line:87] INFO 192.168.201.153 - - [13/Sep/2017 14:09:14] "GET /api/v0.1/image/select/&num=all&%UUID% HTTP/1.1" 200 -
+Wed, 13 Sep 2017 14:09:22 _internal.py[line:87] INFO 192.168.201.153 - - [13/Sep/2017 14:09:22] "GET /api/v0.1/image/select/&num=all&%UUID%systemType% HTTP/1.1" 200 -
